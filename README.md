@@ -15,9 +15,6 @@ Para probar la demostración, consulte google colab notebook.
 
   - Este proyecto esta tratando de reducir el tiempo que tarda una persona con un caso incierto en ser diagnosticada con un tumor maligno e iniciar su tratamiento, ya que es un proceso muy largo en el sistema de salud pública del tercer mundo.
 
-### Retos
-
-  - Al principio, no podía ejecutar el programa con tantos datos, pero una vez que Amazon nos dio acceso a sus servidores, logramos ejecutar nuestro programa logrando una certeza del 93% y si aumentamos nuestro conjunto de datos, esta certeza será más alto.
 
 ### Logros
 
@@ -40,9 +37,6 @@ As of right now, the accuracy of the CNN is approaching to 93%.
 
   - I am trying to reduce the time it takes for a person with an uncertain case to be diagnosed with a malignant tumor and start their treatment, since this is a very lengthy process in the third world public health system.
 
-### What challenges did you run into?
-
-  - At first, I could not manage to run the program with so much data, but once amazon gave us access to their servers we managed to run our program achieving a certainty of 93% and if we make our data set bigger, this certainty will be higher. 
 
 ### What accomplishments are you most proud of?
 
