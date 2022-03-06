@@ -1,4 +1,4 @@
-# Clasificador de mamografías
+# Code for She
 
 Para probar la demostración, consulte google colab notebook.
 
@@ -20,7 +20,7 @@ Para probar la demostración, consulte google colab notebook.
 
   - Se logro obtener una red neuronal con una precisión de aproximadamente el 93 % capaz de clasificar una mamografía como benigna o maligna.
 
-# mammogram classifier
+# Code for She
 
 To try the demo, check google colab notebook.
 
