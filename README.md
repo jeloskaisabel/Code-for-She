@@ -9,7 +9,7 @@ Para probar la demostración, consulte google colab notebook.
 
 ### Objetivo
 
-  - Al usar este programa como guía, los médicos generales y los técnicos radiológicos tendrán una herramienta especial para ayudar a detectar de manera más rápida y fácil los tumores cancerosos en casos inciertos y, especialmente, acelerar el proceso de una evaluación válida del tumor con un oncólogo. , esta herramienta no está destinada a ser utilizada por el público en general, sino solo como una guía.
+  - Al usar este programa como guía, los médicos generales y los técnicos radiológicos tendrán una herramienta especial para ayudar a detectar de manera más rápida y fácil los tumores cancerosos en casos inciertos y, especialmente, acelerar el proceso de una evaluación válida del tumor con un oncólogo, esta herramienta no está destinada a ser utilizada por el público en general, sino solo como una guía.
 
 ### Inspiración
 
